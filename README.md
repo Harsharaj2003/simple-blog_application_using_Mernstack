@@ -9,9 +9,10 @@ connect the string of your mongodb cluster url from  mongodb site
 you can run the blog app using mernstack in your vs code
 in your terminal
 cd frontend
+npm install all
 npm run dev
 
 open new terminal(powershell)
 cd backend
+npm install all
 npm start
-
